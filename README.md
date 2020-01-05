@@ -1,10 +1,12 @@
 # 水印
 
-> React 15 & React 16 compatible.
+![npm](https://img.shields.io/npm/v/@jonge/watermark?style=flat-square)
 
 ![](demo.png)
 
 ## 使用示例
+
+> browser: `window.Watermark`
 
 ```js
 import { getWatermark, setWatermark } from '@jonge/watermark';

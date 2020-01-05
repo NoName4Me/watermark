@@ -21,7 +21,7 @@ export default {
     {
       file: pkg.browser,
       format: 'iife',
-      name: 'ReactRollupStorybook', // the global which can be used in a browser
+      name: 'Watermark', // the global which can be used in a browser
     },
   ],
   plugins: [typescript(), resolve(), commonjs(), terser()],
